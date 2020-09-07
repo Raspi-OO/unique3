@@ -1,0 +1,3 @@
+version_control: git
+src_repo: https://gitlab.gnome.org/Archive/unique
+seperator: .
